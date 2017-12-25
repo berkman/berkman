@@ -17,11 +17,20 @@ author: Mike Berkman
 title: Berkman Co
 email: mike@berkman.co
 description: >- # this means to ignore newlines until "baseurl:"
-  The website for Berkman Consulting LLC
+  The website for Mike Berkman and my side business, Berkman Consulting LLC
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://berkman.co" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: berkmanmd
 github_username:  berkman
+instagram_username: berkman
+linkedin_username: berkmanmd
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%B %-d, %Y"
+
+permalink: /:year/:month/:day/:title
 
 # Build settings
 markdown: kramdown
