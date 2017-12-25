@@ -17,7 +17,7 @@ author: Mike Berkman
 title: Berkman Co
 email: mike@berkman.co
 description: >- # this means to ignore newlines until "baseurl:"
-  The website for Berkman Consulting
+  The website for Berkman Consulting LLC
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: berkmanmd
