@@ -1,0 +1,15 @@
+<svg width="600px" height="200px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style type="text/css">@import url(https://fonts.googleapis.com/css?family=Montserrat);</style>
+  </defs>
+  <g font-size="100" font-family="Montserrat, sans-serif">
+    <text x="0" y="190" style="fill: #20232a">Berkman</text>
+    <text x="455" y="190" style="fill: #a01d26">Co</text>
+  </g>
+    <rect x="285" y="5" rx="3" ry="3" width="30" height="30" style="fill: #20232a" />
+    <rect x="320" y="5" rx="3" ry="3" width="30" height="30" style="fill: #a01d26" />
+    <rect x="250" y="40" rx="3" ry="3" width="30" height="30" style="fill: #20232a" />
+    <rect x="320" y="40" rx="3" ry="3" width="30" height="30" style="fill: #acbebe" />
+    <rect x="250" y="75" rx="3" ry="3" width="30" height="30" style="fill: #20232a" />
+    <rect x="285" y="75" rx="3" ry="3" width="30" height="30" style="fill: #20232a" />
+</svg>
