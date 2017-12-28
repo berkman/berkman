@@ -38,6 +38,7 @@ excerpt_separator: <!--more-->
 # Build settings
 markdown: kramdown
 theme: minima
+theme-url: https://github.com/jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-analytics
