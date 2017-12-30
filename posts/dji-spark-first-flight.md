@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DJI Spark - first flight"
+title:  "DJI Spark - first flights"
 categories: drone
 ---
 
@@ -19,4 +19,7 @@ My Setup
 
 ![dji spark](https://images-na.ssl-images-amazon.com/images/I/71jhZaRKGbL._SL1500_.jpg)
 
-<iframe width="420" height="315" src="https://photos.app.goo.gl/t6Apqh2O95rb8bsv1" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LmhF8wY2HZc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ofKHjbH3d3E" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
