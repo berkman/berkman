@@ -41,7 +41,6 @@ theme: minima
 theme-url: https://github.com/jekyll/minima
 plugins:
   - jekyll-feed
-  - jekyll-analytics
 
 google_analytics: UA-33255072-1
 
