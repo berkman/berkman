@@ -4,13 +4,32 @@ title:  "Finance tools I like"
 categories: finance
 ---
 
-1. You Need a Budget (YNAB)  (referral?)
-2. Simple (referral?)
-3. Google Sheets (link to my spreadsheet)
-4. Mint
-5. Betterment (referral?)
-6. Venmo
-7. Vanguard
-8. Acorns
-9. Robinhood
-10. Wealthfront
+# [You Need a Budget (YNAB)](https://youneedabudget.com)
+This is why I like YNAB
+
+# [Simple](https://simple.com/friends/BTG2LG6)
+asdf
+
+# [Google Sheets](https://docs.google.com/spreadsheets/d/1pGN9wR_wBruAszGYq-Qum2B0F6SNu7rFMWCH2tBUTz0/edit?usp=sharing)
+asdf
+
+# [Betterment](https://www.betterment.com/invite/mikeberkman)
+asdf
+
+# [Mint](https://mint.com)
+asdf
+
+# [Venmo](https://venmo.com)
+asdf
+
+# [Vanguard](https://vanguard.com)
+asdf
+
+# [Acorns](https://acorns.com)
+asdf
+
+# [Robinhood](https://robinhood.com)
+asdf
+
+# [Wealthfront](https://wealthfront.com)
+asdf
